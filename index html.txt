@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>My App</title>
+  <title>Sales System</title>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -13,7 +13,7 @@
 
 <body style="margin:0">
   <iframe 
-    src="你的GAS网址"
+    src="https://script.google.com/macros/s/AKfycbw92lPY0IeUKNVWf8D0ArnJ6Dnt_MV-kcNx62jq-zWWSaCxfg6uZDynBdNisuoYQo26/exec"
     style="width:100%; height:100vh; border:none;">
   </iframe>
 
